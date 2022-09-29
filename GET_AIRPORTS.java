@@ -1,5 +1,3 @@
-package helpers;
-
 import java.io.FileNotFoundException;
 import java.util.*;
 import java.io.*;
