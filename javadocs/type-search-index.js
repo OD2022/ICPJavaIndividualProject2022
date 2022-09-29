@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"GET_AIRPORTS"},{"p":"<Unnamed>","l":"GET_DEPARTURES"},{"p":"<Unnamed>","l":"GET_FLIGHT"},{"p":"<Unnamed>","l":"HAVERSINE_OPTIMIZER"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"PRINT_TICKET"}];updateSearchResults();
