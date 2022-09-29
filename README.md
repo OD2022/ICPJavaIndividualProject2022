@@ -8,5 +8,3 @@ The programme has a total of six classes, but the HAVERSINE OPTIMIZER class is s
 When up and running, the HAVERSINE OPTIMIZER can be combined with the flight node class, to get the total distance covered by a flight as an attribute of that flight. 
 Haversine Distance can serve as the basis of comparison in the flight matches priority queue.
 
-
-The programme java documentation is as follows:
