@@ -1,5 +1,3 @@
-package helpers;
-
 public class GET_FLIGHTS {
     /**
      * Create different flights for a given start airport and stop city
